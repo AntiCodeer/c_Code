@@ -1,3 +1,4 @@
+/*This is a simple parser program*/
 #include <stdio.h>
 #include <string.h>
 
@@ -23,7 +24,7 @@ void parse(char *Str)
             Str[0] = Str[i];
             continue;
         }
-        
+
         if (ins == 0)
         {
             Str[ind] = Str[i];
