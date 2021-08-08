@@ -1,3 +1,4 @@
+/*This is a Menu Driven Program For Unit Conversion*/
 #include <stdio.h>
 void kmtoMi();
 void inchtofeet();
@@ -24,31 +25,31 @@ int main()
 		switch(ch)
 		{
 			case 1:
-			{	
+			{
 				printf("\nYou Choosed Km To Miles");
 				kmtoMi();
 				break;
 			}
 			case 2:
-			{	
+			{
 				printf("\nYou Choosed inches To feet");
 				inchtofeet();
 				break;
 			}
 			case 3:
-			{	
+			{
 				printf("\nYou Choosed cm To inches");
 				cmtoinches();
 				break;
 			}
 			case 4:
-			{	
+			{
 				printf("\nYou Choosed pound To kg");
 				putokg();
 				break;
 			}
 			case 5:
-			{	
+			{
 				printf("\nYou Choosed inches To Meters");
 				intome();
 				break;
@@ -67,7 +68,7 @@ int main()
 }
 
 void kmtoMi()
-{	
+{
 	float km,miles;
 	printf("\nEnter Km Value :- ");
 	scanf("%f", &km);
