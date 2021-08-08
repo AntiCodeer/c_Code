@@ -1,3 +1,4 @@
+/*This is a Pattern Printing Program*/
 #include<stdio.h>
 void normalstarpattern(int );
 void reversestarpattern(int);
@@ -113,7 +114,7 @@ void reversestarpattern(int n)
 		}
 		printf("\n");
 	}
-	return;	
+	return;
 }
 
 void normalpyramid(int n)
