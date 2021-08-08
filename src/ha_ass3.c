@@ -1,3 +1,4 @@
+/*This is another menu driven program for Fibonacci Series*/
 #include <stdio.h>
 #define MAX 50
 int fib_rec(int );
@@ -27,7 +28,7 @@ void fib_itt(int n)
 	fib[1] = 1;
 	printf("Itterative Approach Fib[0]:- 0\n");
 	printf("Itterative Approach Fib[1]:- 1\n");
-	
+
 	for(i=2; i<=n; ++i)
 	{
 		fib[i] = fib[i-1] + fib[i-2];
