@@ -1,3 +1,4 @@
+/*This is a Fibonacci Series Printing Program*/
 #include<stdio.h>
 #define MAX 50
 int fib_rec(int );
