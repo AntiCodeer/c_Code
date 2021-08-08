@@ -1,3 +1,4 @@
+/*This is a Array Reversal program*/
 #include<stdio.h>
 #define MAX 20
 void rev(int *,int );
