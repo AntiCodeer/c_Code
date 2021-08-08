@@ -1,3 +1,4 @@
+/*This is a Multiplication Table Printing Program*/
 #include<stdio.h>
 int main(int argc, char const *argv[])
 {
