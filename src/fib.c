@@ -1,6 +1,6 @@
 /*This is a Fibonacci Series Printing Program*/
 #include<stdio.h>
-#define MAX 50
+#define MAX 60
 int fib_rec(int );
 void fib_itt(int );
 
