@@ -76,9 +76,9 @@ After Reversal: 67, 6, 5, 4, 3, 2, 1
 While using a browser, when you click right and select view page source, you will see the HTML of that website you are using at that time. HTML is the standard markup language for Web pages. So, today’s task is to write a code to “parse the sample HTML.”
 
 Instructions:
-You are given with an HTML code like, "<h1> This is a heading </h1>.Your task is to parse the content written between the HTML tags." 
+You are given with an HTML code like, "<h1> This is a heading </h1>".Your task is to parse the content written between the HTML tags. 
 
-char string[] = "<h1> This is a heading </h1>";
+-no <html> char string[] = <h1> This is a heading </h1>";</html>
 
 For this task, you have to create a void function parser, which will take a string as an argument and return the parsed content written in the HTML code. Following is the sample of input and output.
 
