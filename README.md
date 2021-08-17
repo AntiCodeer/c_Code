@@ -59,11 +59,8 @@ Hint: Ask the user to enter the number of rows and then use nested for loop to p
 
 Triangular star pattern:
 *
-
 **
-
 ***
-
 ****
 
 - ha_ass5.c :- 
