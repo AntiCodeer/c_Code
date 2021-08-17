@@ -78,7 +78,7 @@ While using a browser, when you click right and select view page source, you wil
 Instructions:
 You are given with an HTML code like, "<h1> This is a heading </h1>".Your task is to parse the content written between the HTML tags. 
 
--no <html> char string[] = <h1> This is a heading </h1>";</html>
+char string[] = - no<h1> This is a heading </h1>";
 
 For this task, you have to create a void function parser, which will take a string as an argument and return the parsed content written in the HTML code. Following is the sample of input and output.
 
