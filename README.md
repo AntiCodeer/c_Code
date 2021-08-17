@@ -57,11 +57,6 @@ Take input from the user and ask the user to choose 0 for the triangular star pa
 
 Hint: Ask the user to enter the number of rows and then use nested for loop to print rows and columns of triangular star pattern.
 
-Triangular star pattern:
-*
-**
-***
-****
 
 - ha_ass5.c :- 
 The task you have to perform is “Array Reversal in C”.
