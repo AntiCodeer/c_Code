@@ -6,7 +6,7 @@ You Can Compile and run all this code's by using GCC Compiler.
 - Step 1 :- Just Type ->  gcc programName.c -o programName
 - Step 2 :- And Then -> ./programName
 
-#Index
+# Index
 This are the Qn's and Description
 - ha_ass1.c :-
 This is the first exercise of C programming tutorials. This C programming series contains many exercises that will help you to become a great problem solver. So, your first task is to “Print Multiplication Table in C”. All of the concept we have studied till now will use in this task, so by solving this exercise you can examine yourself that how much effort you need to put in learning C language.
