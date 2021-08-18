@@ -1,3 +1,4 @@
+/*Rock Paper Scissors Game In C Language*/
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
