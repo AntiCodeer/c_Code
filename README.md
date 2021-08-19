@@ -175,3 +175,15 @@ This program asks the user to enter the size of rows and columns of two matrices
 To multiply two matrices, the number of columns of the first matrix should be equal to the number of rows of the second matrix.
 
 When this condition satisfies, your program should return the multiplied matrix result. However, if this condition does not satisfy, then your program should display a message to end-user that it cannot perform the multiplication of matrices.
+
+# ha_ass11.c :-
+The task you have to perform is to write a program that will check whether the integer number is a palindrome or not. A palindromic number is a number such as 16461, which remains the same when its digits are reversed. The example of palindromic numbers is 101, 131, 151.
+
+Task:-
+Create a function in which you will pass the number as an argument and the function return whether the number is palindrome or not.
+
+int isPalindrome(int num)
+{
+return 1;
+}
+Take the integer input from the user using scanf() statement. If the number is a palindrome, the message should display on the screen that “This number is a palindrome”.
