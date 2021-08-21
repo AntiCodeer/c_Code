@@ -196,10 +196,10 @@ Thanks {{name}} for purchasing {{item}} from our outlet {{outlet}}. Please visit
 
 You have to write a program that will automatically fill the template.For this, read this file and replace these values:
 
-{{name}} - Harry 
+{{name}} - Abhi 
 
-{{item}} - Table Fan 
+{{item}} - Laptop 
 
-{{outlet}} - Ram Laxmi fan outlet
+{{outlet}} - xyz
 
 Use file functions in c to accomplish the same.
