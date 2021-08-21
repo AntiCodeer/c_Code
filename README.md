@@ -187,3 +187,19 @@ int isPalindrome(int num)
 return 1;
 }
 Take the integer input from the user using scanf() statement. If the number is a palindrome, the message should display on the screen that “This number is a palindrome”.
+
+# ha_ass12.c :-
+Problem Statement:-
+Suppose you have a template letter.txt. You have to fill in values to a template. Letter.txt looks something like this:
+
+Thanks {{name}} for purchasing {{item}} from our outlet {{outlet}}. Please visit our outlet {{outlet}} for any kind of problems. We plan to serve you again soon.
+
+You have to write a program that will automatically fill the template.For this, read this file and replace these values:
+
+{{name}} - Harry 
+
+{{item}} - Table Fan 
+
+{{outlet}} - Ram Laxmi fan outlet
+
+Use file functions in c to accomplish the same.
