@@ -3,8 +3,8 @@ In this repo i have some c programs's
 
 You Can Compile and run all this code's by using GCC Compiler Or You can choose any IDE According To Your Choice.
 
-- Step 1 :- Just Type ->  gcc programName.c -o programName
-- Step 2 :- And Then -> ./programName
+    - Step 1 :- Just Type ->  gcc programName.c -o programName
+    - Step 2 :- And Then -> ./programName
 
 # Index
 Thess are the Qn's and Description/Instruction to solve The problems (ha_ass -> Means Assignment No)
@@ -212,8 +212,31 @@ The task you have to perform today is to build an “Command Line Calculator in 
 Problem Statement:-
 You have to create a command-line utility to add/subtract/divide/multiply two numbers. The first command-line argument of your c program must be the operation. The next arguments being the two numbers.
 
+
 Here is an example:-
 
-./programname add 45 4
+    ./programname 45 + 4
 
-49
+    49
+
+# ha_ass14.c :-
+The task you have to perform is to write a program that will calculate the “Area of the Circle Using Function Pointers in C.”
+
+Problem Statement:-
+You have to take four points(x1,y1,x2,y2) from the user using scanf(). To find the distance between these points, you will use the Euclidean distance formula. 
+
+Following is the task:
+
+Write a function that will calculate the Euclidean distance.
+
+    float Edistance(int x1, int y1, int x2, int y2)
+    {
+        return 0;
+    }
+This function will return an integer value.
+
+Write a function that tells the area of the circle whose radius is equal to the distance between x1,y1,x2,y2, and pass function pointer as an argument.
+
+    float areaOfCircle(int x1, int y1, int x2, int y2, <function pointer here> ){
+    //return area of circle
+    }
