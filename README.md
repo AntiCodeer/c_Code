@@ -241,7 +241,7 @@ Write a function that tells the area of the circle whose radius is equal to the 
     //return area of circle
     }
 
-# [Binary Seach Algo :-](https://github.com/AntiCodeer/c_Code_Learning/blob/main/src/binarySearch.c)
+# [Binary Search Algo :-](https://github.com/AntiCodeer/c_Code_Learning/blob/main/src/binarySearch.c)
 
     Example :
     Input :-
