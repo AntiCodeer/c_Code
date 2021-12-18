@@ -40,13 +40,13 @@ Table of 6.
 
 6*10 = 60
 
-# ha_ass2.c :- 
+# ha_ass2.c :-
 
-Question : Write a program which converts the following units into another : 
+Question : Write a program which converts the following units into another :
 
 In this program simply use switch case statements to ask user which type of conversion he wants to do and then simply use basic mathematics and convert one unit into another.
 
-# ha_ass3.c :- 
+# ha_ass3.c :-
 Question : Write a program using recursive function to produce Fibonacci series of numbers?
 
 # ha_ass4.c :-
@@ -58,7 +58,7 @@ Take input from the user and ask the user to choose 0 for the triangular star pa
 Hint: Ask the user to enter the number of rows and then use nested for loop to print rows and columns of triangular star pattern.
 
 
-# ha_ass5.c :- 
+# ha_ass5.c :-
 The task you have to perform is “Array Reversal in C”.
 
 Instruction:
@@ -76,14 +76,14 @@ After Reversal: 67, 6, 5, 4, 3, 2, 1
 While using a browser, when you click right and select view page source, you will see the HTML of that website you are using at that time. HTML is the standard markup language for Web pages. So, today’s task is to write a code to “parse the sample HTML.”
 
 Instructions:
-You are given with an HTML code like, "<h1> This is a heading </h1>".Your task is to parse the content written between the HTML tags. 
+You are given with an HTML code like, "<h1> This is a heading </h1>".Your task is to parse the content written between the HTML tags.
 
 char string[] = - no<h1> This is a heading </h1>";
 
 For this task, you have to create a void function parser, which will take a string as an argument and return the parsed content written in the HTML code. Following is the sample of input and output.
 
 Input:
-<h1> This is the heading </h1> 
+<h1> This is the heading </h1>
 
 Output:
 This is the heading
@@ -96,11 +96,11 @@ You manage a travel agency, and you want your n drivers to input their following
 
 Name of the driver
 Driving License Number
-Route 
+Route
 Kms
-Your program should be able to take n as input (or you can take n=3 for simplicity), and your drivers will start inputting their details one by one. Your program should print details of the drivers in a beautiful fashion. For this task, you have to use Structure only. These four inputs: name, driving license number, route, and km information will be struct members. After creating struct, you have to create its array of size “n.” 
+Your program should be able to take n as input (or you can take n=3 for simplicity), and your drivers will start inputting their details one by one. Your program should print details of the drivers in a beautiful fashion. For this task, you have to use Structure only. These four inputs: name, driving license number, route, and km information will be struct members. After creating struct, you have to create its array of size “n.”
 
-# ha_ass8.c :- 
+# ha_ass8.c :-
 Problem Statement:-
 Suppose ABC is a private limited company which manages the employee records of other companies. Employee id can be of any length, and it can contain any character. The following are the task you have to perform for three employees.
 
@@ -161,7 +161,7 @@ paper vs. rock -> paper wins
 Task:-
 You have to write a C program that will:
 
-Allows the user to play this game three times with a computer. 
+Allows the user to play this game three times with a computer.
 Log the scores of the computer and the player.
 Display the name of the winner at the end
 Note: You have to display the name of the player during the game. Take users name as an input from the user.
@@ -196,16 +196,16 @@ Thanks {{name}} for purchasing {{item}} from our outlet {{outlet}}. Please visit
 
 You have to write a program that will automatically fill the template.For this, read this file and replace these values:
 
-{{name}} - Abhi 
+{{name}} - Abhi
 
-{{item}} - Laptop 
+{{item}} - Laptop
 
 {{outlet}} - xyz
 
 Use file functions in c to accomplish the same.
 
 # ha_ass13.c :-
-Today’s exercise question is based on the command-line interface. If you have not that tutorial, then check the tutorial#68  to learn the concept of command-line arguments in C. 
+Today’s exercise question is based on the command-line interface. If you have not that tutorial, then check the tutorial#68  to learn the concept of command-line arguments in C.
 
 The task you have to perform today is to build an “Command Line Calculator in C”. Following is the problem statement.
 
@@ -223,7 +223,7 @@ Here is an example:-
 The task you have to perform is to write a program that will calculate the “Area of the Circle Using Function Pointers in C.”
 
 Problem Statement:-
-You have to take four points(x1,y1,x2,y2) from the user using scanf(). To find the distance between these points, you will use the Euclidean distance formula. 
+You have to take four points(x1,y1,x2,y2) from the user using scanf(). To find the distance between these points, you will use the Euclidean distance formula.
 
 Following is the task:
 
@@ -240,3 +240,26 @@ Write a function that tells the area of the circle whose radius is equal to the 
     float areaOfCircle(int x1, int y1, int x2, int y2, <function pointer here> ){
     //return area of circle
     }
+
+# [Binary Seach Algo :-](https://github.com/AntiCodeer/c_Code_Learning/blob/main/src/binarySearch.c)
+
+    Example :
+    Input :-
+
+    Enter the No of Elements :- 5
+
+    a[1] = 12
+
+    a[2] = 32
+
+    a[3] = 54
+
+    a[4] = 65
+
+    a[5] = 78
+
+    Ente the Key :- 65
+
+    Output :-
+
+    65 Element Found in 4 Position.
