@@ -263,3 +263,25 @@ Write a function that tells the area of the circle whose radius is equal to the 
     Output :-
 
     65 Element Found in 4 Position.
+
+# [Linear Search Algo :- ](https://github.com/AntiCodeer/c_Code_Learning/blob/main/src/linearSearch.c)
+    Example :
+    Input :- 
+    Enter the no of Elements :- 5
+
+    Enter a[1] = 12
+
+    Enter a[2] = 12
+
+    Enter a[3] = 32
+
+    Enter a[4] = 45
+
+    Enter a[5] = 65
+
+    Enter the Key :- 12
+
+    Output :- 
+    12 Element found in 1 Position.
+    12 Element found in 2 Position.
+    12 Element founded 2 times.
