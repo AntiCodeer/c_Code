@@ -285,3 +285,6 @@ Write a function that tells the area of the circle whose radius is equal to the 
     12 Element found in 1 Position.
     12 Element found in 2 Position.
     12 Element founded 2 times.
+
+# [stringnochecker.c](https://github.com/AntiCodeer/c_Code_Learning/blob/main/src/stringnochecker.c)
+# [primeDigits.c](https://github.com/AntiCodeer/c_Code_Learning/blob/main/src/primeDigits.c)
