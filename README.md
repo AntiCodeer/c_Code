@@ -288,3 +288,4 @@ Write a function that tells the area of the circle whose radius is equal to the 
 
 # [stringnochecker.c](https://github.com/AntiCodeer/c_Code_Learning/blob/main/src/stringnochecker.c)
 # [primeDigits.c](https://github.com/AntiCodeer/c_Code_Learning/blob/main/src/primeDigits.c)
+# [primeSumDigits.c](https://github.com/AntiCodeer/c_Code_Learning/blob/main/src/primeSumDigits.c)
