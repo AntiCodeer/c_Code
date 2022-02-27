@@ -1,6 +1,6 @@
 #include <stdio.h>      //taking header file for standard input output
 int isPrime(int );      //function declaration for checking is the no is prime or not
-int sumOfDigits(int );      //function declaration for checking the sum of digits
+
 
 //main function
 int main(int argc, char const *argv[])
