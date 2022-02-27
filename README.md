@@ -287,5 +287,34 @@ Write a function that tells the area of the circle whose radius is equal to the 
     12 Element founded 2 times.
 
 # [stringnochecker.c](https://github.com/AntiCodeer/c_Code_Learning/blob/main/src/stringnochecker.c)
+
+    Enter the String :- he11o
+
+    This is a Pure String
+    This is a Pure String
+    This has some amount of no
+    This has some amount of no
+    This is a Pure String
 # [primeDigits.c](https://github.com/AntiCodeer/c_Code_Learning/blob/main/src/primeDigits.c)
+
+    Enter the Range in A and B :- 10 50
+
+    11 is a Prime No with Prime digits.
+    23 is a Prime No with Prime digits.
+    29 is a Prime No with Prime digits.
+    41 is a Prime No with Prime digits.
+    43 is a Prime No with Prime digits.
+    47 is a Prime No with Prime digits.
 # [primeSumDigits.c](https://github.com/AntiCodeer/c_Code_Learning/blob/main/src/primeSumDigits.c)
+
+    Enter your No : 374
+
+    Sum = 10
+# [stringCounterNo.c](https://github.com/AntiCodeer/c_Code_Learning/blob/main/src/stringCounterNo.c)
+
+    Enter the String input : aAbcDbfdab
+
+    Enter the counter : 3
+
+    Enter chracters : a A b
+    Sum = 553
